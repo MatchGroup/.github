@@ -1,6 +1,6 @@
 ## Hey, we're Match Group 👋
 
-![Match Group: the company behind Tinder, Hinge, Match, OkCupid, Plenty of Fish and more](https://mtch.com/wp-content/uploads/2026/06/Match-Group-Social-Media-Image.webp)
+![Match Group: the company behind Tinder, Hinge, Match, OkCupid, Plenty of Fish and more](./matchgroup.png)
 
 We build the apps where people meet. Our mission is to **spark meaningful connections for every single person worldwide**, and we take that literally.
 
